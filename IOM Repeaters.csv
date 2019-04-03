@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Comment,URCALL,RPT1CALL,RPT2CALL,Digital Code
+1,GB3GD,145.62500,-,0.6,Tone,110.9,88.5,023,NN,FM,5,"Snaefell",,,,
+2,GB3IM,430.82500,+,7.6,Tone,71.9,71.9,023,NN,FM,5,"Bride",,,,
+3,GB3IM,430.82500,+,7.6,Tone,110.9,110.9,023,NN,FM,5,"Carnane",,,,
+4,GB3IM,430.82500,+,7.6,Tone,110.9,88.5,023,NN,FM,5,"Douglas",,,,
+5,GB3IM,430.87500,+,7.6,Tone,110.9,110.9,023,NN,FM,5,"Peel",,,,
+6,GB7BR,430.92500,+,7.6,,88.5,88.5,23,NN,DMR,5,"Bride",,,,
+7,GB7CA,430.92500,+,7.6,,88.5,88.5,23,NN,DMR,5,"Carnane",,,,
+8,GB3IM,433.12500,+,1.6,Tone,110.9,110.9,023,NN,FM,5,"Snaefell",,,,
