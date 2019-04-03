@@ -1,0 +1,11 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Comment,URCALL,RPT1CALL,RPT2CALL,Digital Code
+1,9H1US,145.47500,+,293.05,Tone,77.0,77.0,023,NN,FM,5,"Birkirkara , Malta",,,,
+2,9H4GR,145.62500,-,0.6,,88.5,88.5,023,NN,FM,5,"Gozo Island",,,,
+3,R4,145.70000,-,0.6,Tone,88.5,88.5,023,NN,FM,5,"Mdina",,,,
+4,9H1BBS,145.75000,-,0.6,Tone,77.0,88.5,023,NN,FM,5,"Mtarfa",,,,
+5,9H5SN,430.87500,+,7.6,Tone,88.5,88.5,023,NN,Auto,5,"Mosta, San Silvestro Church",,,,
+6,,430.87500,+,7.6,Tone,88.5,88.5,023,NN,FM,5,"Mtarfa",,,,
+7,9H1US,430.92500,+,7.6,Tone,82.5,88.5,023,NN,FM,5,"Birkirkara",,,,
+8,9H1DMR,430.92500,+,7.6,,88.5,88.5,23,NN,DMR,5,"Naxxar",,,,
+9,9H1BBS,433.17500,+,1.6,Tone,77.0,88.5,023,NN,FM,5,"Mtarfa",,,,
+10,9H1XE,438.65000,-,7.6,,88.5,88.5,023,NN,Auto,5,"Fgura",,,,
