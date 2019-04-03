@@ -1,5 +1,5 @@
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL
-0,SEA 00,160.600000,-,4.600000,,88.5,88.5,023,NN,FM,5.00,,Rescue,,,
+0,SEA 00,156.000000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,Rescue,,,
 1,SEA 01,160.650000,-,4.600000,,88.5,88.5,023,NN,FM,5.00,,,,,
 2,SEA 02,160.700000,-,4.600000,,88.5,88.5,023,NN,FM,5.00,,Wicklow Head/Donegal Bay,,,
 3,SEA 03,160.750000,-,4.600000,,88.5,88.5,023,NN,FM,5.00,,,,,
