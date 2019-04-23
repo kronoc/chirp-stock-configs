@@ -8,7 +8,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 7,EI2HHR,145.67500,-,0.6,,88.5,88.5,023,NN,FM,5,"Helvick Head, Co. Waterford",,,,
 8,EI2TKR,145.70000,-,0.6,Tone,77.0,88.5,023,NN,FM,5,"Truskmore",,,,
 9,EI2IPG,145.71250,-,0.6,Tone,67.0,88.5,023,NN,FM,5,"Carndonagh, Co. Donegal",,,,
-10,EI2TAG,145.72500,-,0.6,,88.5,88.5,023,NN,Auto,5,"Tountinna",,,,
+10,EI2TAG,145.72500,-,0.6,,88.5,88.5,023,NN,FM,5,"Tountinna" Yaesu C4FM enabled,,,,
 11,EI2MGR,145.75000,-,0.6,,88.5,88.5,023,NN,FM,5,"Mullaghanish, Cork",,,,
 12,EI2KPR,145.76250,-,0.6,Tone,88.5,88.5,023,NN,FM,5,"Kippure, Co. Dublin",,,,
 13,EI2LLX,145.78750,-,0.6,Tone,88.5,88.5,023,NN,FM,5,"Laughan Lea, Co. Cavan",,,,
